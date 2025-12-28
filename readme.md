@@ -70,7 +70,7 @@ Ensure you have Python 3.8+ installed.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/cognitive-risk-engine.git](https://github.com/yourusername/cognitive-risk-engine.git)
+git clone https://github.com/OpsWithPrathamesh/Insurance-Risk-Analytics.git
 cd cognitive-risk-engine
 
 2. Install Dependencies
